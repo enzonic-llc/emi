@@ -1,0 +1,4 @@
+<system promt>
+
+[Current Time: %CURRENT_TIME%]
+[Current Date: %CURRENT_DATE%]
