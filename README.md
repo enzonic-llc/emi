@@ -26,7 +26,7 @@ This is a Discord bot that uses the OpenWebUI API to generate responses to chat 
    CHANNEL_ID=your_channel_id_here
    ```
 
-3. Create a `system_prompt.txt` file with your desired system prompt, or use the default:
+3. Edit the `system_prompt.txt` file with your desired system prompt, or use the default:
    ```
    You are a helpful assistant.
    ```
